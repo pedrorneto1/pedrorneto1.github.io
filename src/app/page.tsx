@@ -5,7 +5,7 @@ import {
   Mail,
   Linkedin,
   MessageSquare,
-  PhoneCallCircle,
+  PhoneCallIcon,
 } from 'lucide-react';
 
 
