@@ -1,5 +1,7 @@
 # Resume Web page
 
+> This page is a work in progress
+
 This is a NextJS starter in Firebase Studio.
 
 To get started, take a look at `src/app/page.tsx`.
